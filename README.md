@@ -111,14 +111,6 @@ This P&L statement is intended for financial analysis and reporting purposes. It
 
 This repository contains the P&L (Profit and Loss) Statement by Markets report. The document provides detailed financial insights for different market segments, allowing users to analyze performance and profitability.
 
-## Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -138,14 +130,6 @@ To access and utilize the P&L Statement:
 2. Open the file with any PDF reader.
 3. Review the detailed financial data and insights.
 
-## Contributing
-
-We welcome contributions to enhance this report. If you have suggestions or improvements, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
 
 # P&L Statement by Months
 
@@ -195,7 +179,5 @@ For further information or inquiries, please contact sharma1592vijay@gmail.com
 --- 
 
 Feel free to adjust the content and sections as needed to better fit the specifics of your document and audience.
-
-
 
 
